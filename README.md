@@ -29,18 +29,18 @@ The repository contains the jupyter lab notebook. The datasets have to be downla
 
 
 ## The datasets
-|File                          | Description                                                                                           |
-|----------------              |-------------------------------------------------------------------------------------------------------|
-airbnb_calendar.csv            | price per day and listing                                                                              |
-airbnb_listings.csv            | Summary of AirBnB Listings (offers) in Berlin (see data dictionary for column desc )                   |
-airbnb_listings_dtl.csv        | Details of AirBnB Listings (offers) in Berlin                                                          |
-airbnb_neighbourhoods.csv      | neighboorhoods (district areas)                                                                        |
-airbnb_neighbourhoods.geojson  | geometry of the neighbourhood as polygon                                                               |
-mapping_neighbourhood_zip.csv  | zip code -> neighbourhood mapping / assigns each zip code a neighbourhood it belongs to                |
-plz_einwohner.csv              | population per zip code area                                                                           |
-plz-gebiete.shp                | geometry (as polygon) for zip code areas                                                               |
-zuordnung_plz_ort.csv          | zip code to city (city area) assignment                                                                |
-zuordnung_plz_ort_landkreis.csv| zip code to city (city area) assignment                                                                |
+|File                          | Description                                                                                           |have to be downloaded|
+|----------------              |-------------------------------------------------------------------------------------------------------|-----|
+airbnb_calendar.csv            | price per day and listing                                                                             | yes |
+airbnb_listings.csv            | Summary of AirBnB Listings (offers) in Berlin (see data dictionary for column desc )                  | yes |
+airbnb_listings_dtl.csv        | Details of AirBnB Listings (offers) in Berlin                                                         | yes |
+airbnb_neighbourhoods.csv      | neighboorhoods (district areas)                                                                       | yes |
+airbnb_neighbourhoods.geojson  | geometry of the neighbourhood as polygon                                                              | yes |
+mapping_neighbourhood_zip.csv  | zip code -> neighbourhood mapping / assigns each zip code a neighbourhood it belongs to               | **no** |
+plz_einwohner.csv              | population per zip code area                                                                          | yes |
+plz-gebiete.shp                | geometry (as polygon) for zip code areas                                                              | yes |
+zuordnung_plz_ort.csv          | zip code to city (city area) assignment                                                               | yes |
+zuordnung_plz_ort_landkreis.csv| zip code to city (city area) assignment                                                               | yes |
 
 
 # Jupyter Notebook
