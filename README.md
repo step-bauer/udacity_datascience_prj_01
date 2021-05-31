@@ -1,4 +1,8 @@
-# udacity_datascience_prj_01
+# udacity_datascience_prj_01 - AirBnB data analysis
+This project is the first project of the udacity nanodegree for datascience. 
+
+It is an analysis of AirBnB dataset for Berlin and some statistical data about Berlin's population. The analysis was done in Jupyter Lab notebook. 
+The repository contains the jupyter lab notebook. The datasets have to be downladed from the original sources.
 
 
 # Installation of the environment
