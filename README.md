@@ -45,3 +45,6 @@ zuordnung_plz_ort_landkreis.csv| zip code to city (city area) assignment        
 
 # Jupyter Notebook
 The analysis is done in **airbnb_project_02.ipynb**
+
+# Blog
+https://stephan-bauer.medium.com/how-are-airbnb-offers-distributed-across-berlin-b55d8054de07
